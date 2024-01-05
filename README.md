@@ -57,4 +57,4 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
-[![An old rock in the desert]( https://duet-cdn.vox-cdn.com/thumbor/0x0:600x600/2400x2400/filters:focal(300x300:301x301):no_upscale():format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25028185/apple_scary_fast_logo.gif "Shiprock, New Mexico by Beau Rogers")](https://www.google.com "go to google")
+[![An old rock in the desert]( https://duet-cdn.vox-cdn.com/thumbor/0x0:600x600/2400x2400/filters:focal(300x300:301x301):no_upscale():format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25028185/apple_scary_fast_logo.gif "Click to see Apple glowing!")](https://www.google.com "go to google")
