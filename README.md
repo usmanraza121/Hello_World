@@ -46,7 +46,13 @@ github learning
 
  > <fake@example.com>
 
+## Images
+
+To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
+
+![The San Juan Mountains are beautiful!](https://digiwits.co/assets/uploads/2023/09/the-history-behind-the-apple-logo.jpg "Apple logo")
+
 Linking Images
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
-[![An old rock in the desert]([/assets/images/shiprock.jpg](https://digiwits.co/assets/uploads/2023/09/the-history-behind-the-apple-logo.jpg)https://digiwits.co/assets/uploads/2023/09/the-history-behind-the-apple-logo.jpg "Shiprock, New Mexico by Beau Rogers")]
+[![An old rock in the desert]([/assets/images/shiprock.jpg]("Shiprock, New Mexico by Beau Rogers")]
