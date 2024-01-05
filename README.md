@@ -43,7 +43,7 @@ github learning
 > To quickly turn a URL or email address into a link, enclose it in angle brackets.
 >
 > <https://www.markdownguide.org>
-> <fake@example.com>
+ <fake@example.com>
 
 Linking Images
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
