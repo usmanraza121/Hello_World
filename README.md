@@ -49,4 +49,4 @@ github learning
 Linking Images
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]
+[![An old rock in the desert]([/assets/images/shiprock.jpg](https://digiwits.co/assets/uploads/2023/09/the-history-behind-the-apple-logo.jpg)https://digiwits.co/assets/uploads/2023/09/the-history-behind-the-apple-logo.jpg "Shiprock, New Mexico by Beau Rogers")]
